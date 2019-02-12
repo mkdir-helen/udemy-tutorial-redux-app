@@ -1,6 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
 
 const Card = ({ name, email, id }) => {
   // const {name, email, id} = props;
